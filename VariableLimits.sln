@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariableLimits", "VariableLimits\VariableLimits.csproj", "{0C200D4D-B9F9-4B9E-8103-627168DE3A2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariableLimits", "VariableLimits\VariableLimits.csproj", "{0C200D4D-B9F9-4B9E-8103-627168DE3A2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithStrings", "FunWithStrings\FunWithStrings.csproj", "{73531DE3-5005-402D-B755-FB163F1CB772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeSolution", "SnakeSolution\SnakeSolution.csproj", "{804664DD-020C-4D57-A865-3D7BA5B128AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{0C200D4D-B9F9-4B9E-8103-627168DE3A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C200D4D-B9F9-4B9E-8103-627168DE3A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C200D4D-B9F9-4B9E-8103-627168DE3A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73531DE3-5005-402D-B755-FB163F1CB772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73531DE3-5005-402D-B755-FB163F1CB772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73531DE3-5005-402D-B755-FB163F1CB772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73531DE3-5005-402D-B755-FB163F1CB772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{804664DD-020C-4D57-A865-3D7BA5B128AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804664DD-020C-4D57-A865-3D7BA5B128AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804664DD-020C-4D57-A865-3D7BA5B128AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804664DD-020C-4D57-A865-3D7BA5B128AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
